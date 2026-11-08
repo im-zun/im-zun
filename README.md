@@ -1,30 +1,102 @@
-<h1 align="center">Hi 👋, I'm Masud Ahmed (Zun)</h1>
-<h3 align="center">Exploring AI & Technology</h3>
+# 👋 Hey, I'm Masud Ahmed (Zun)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=im-zun&label=Profile%20views&color=0e75b6&style=flat" alt="im-zun" /> </p>
+### Aspiring Software Engineer | CSE Student | AI & Technology Enthusiast
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=im-zun" alt="im-zun" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Learning+to+build+impactful+software;Exploring+AI+%26+Machine+Learning;Turning+ideas+into+code;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on **Project Sentinel – Telecom Churn Prediction**
+---
 
-- 🌱 I’m currently learning **C++, Data Structures & Algorithms, Web Development ETC**
+## 🚀 About Me
 
-- 👯 I’m looking to collaborate on **AI, Machine Learning & Software Developmentlii**
+I'm a Computer Science student passionate about software development, artificial intelligence, and emerging technologies.
 
-- 🤝 I’m looking for help with **Machine Learning, Model Optimization, DSA & Software Development**
+- 🎓 Pursuing a Diploma in Computer Science & Engineering.
+- 🤖 Worked on **PROJECT SENTINEL** – Telecom Customer Churn Prediction.
+- 💻 Learning Data Structures & Algorithms and Web Development.
+- 🧠 Exploring Artificial Intelligence and Machine Learning.
+- 🌱 Focused on learning, building projects, and solving real-world problems.
+- 🎯 Working towards becoming a skilled Software Engineer.
 
-- 💬 Ask me about **My learning journey, programming and technology**
+---
 
-- ⚡ Fun fact **Curious mind, always exploring something new.**
+## 🛠️ Technologies & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 🌟 Featured Project
+
+### 🧠 PROJECT SENTINEL — Telecom Customer Churn Prediction
+
+An AI/ML project focused on predicting telecom customer churn and identifying customers at risk of leaving.
+
+**Project highlights:**
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Machine Learning Model Development
+- Model Evaluation
+- Customer Risk Segmentation
+- Business Retention Recommendations
+
+*Repository link will be added when the project is published on GitHub.*
+
+---
+
+## 📚 Currently Learning
+
+- C++ and Data Structures & Algorithms
+- Problem Solving
+- HTML, CSS and JavaScript
+- Python and Machine Learning
+- Software Engineering Fundamentals
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=im-zun&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=im-zun&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-zun&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=im-zun&show_icons=true&locale=en&layout=compact" alt="im-zun" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=im-zun&show_icons=true&locale=en" alt="im-zun" /></p>
+## 🐍 Watch My Contributions Get Eaten!
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/im-zun/im-zun/output/github-snake.svg" alt="GitHub contribution snake animation" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in learning, sharing ideas, and connecting with people who love technology.
+
+[![GitHub](https://img.shields.io/badge/GitHub-im--zun-181717?style=for-the-badge&logo=github)](https://github.com/im-zun)
+
+---
+
+<p align="center">
+  <i>"Great things are built one step at a time."</i>
+  <br/><br/>
+  ⭐ If you find something interesting here, feel free to explore my repositories!
+</p>
